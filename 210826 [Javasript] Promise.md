@@ -68,3 +68,5 @@ promise
     )
 
 ```
+
+Reference : https://ko.javascript.info/promise-basics
